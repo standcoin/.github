@@ -1,1 +1,3 @@
-Standcoin Labs
+StandX Labs
+
+https://standx.com
